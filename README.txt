@@ -1,2 +1,2 @@
 My First GitFile! 
-I am Main ，Add add a Branch named bianch_01
+I am Main ，has merged bianch_01
